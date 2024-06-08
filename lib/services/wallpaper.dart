@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:cached_network_image/cached_network_image.dart';
 
-const String imageWallpeperUrl = "";
+const String imageWallpeperUrl = "https://raw.githubusercontent.com/rahuldshetty/flutter-wallpaper-app/master/wallpaper_collection/wallpaper_data_v1.json";
 
 class Wallpaper{
   final String category;
